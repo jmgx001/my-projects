@@ -173,7 +173,7 @@ public abstract class AbstractBeanFactory extends FactoryBeanRegistrySupport imp
 
 
 	/**
-	 * Create a new AbstractBeanFactory.
+	 * 构造方法
 	 */
 	public AbstractBeanFactory() {
 	}
